@@ -1,5 +1,29 @@
-## Instructions on how to run the tests:
+# My Bid Food
 
-1. Install IntelliJ IDEA - https://www.jetbrains.com/idea/download/ and JAVA 8.
-2. Download source code from Git repository called MyBidFood - https://github.com/jingbinw/MyBidFood
-3. Run the java class file called SearchProductsTests under Tests folder on IntelliJ IDEA.
+## Overview
+
+This project includes three test cases to validate the functionality of the Bid Food website.
+
+## Test Cases
+
+### 1. Log in to Bid Food website
+
+- **Description:** Log in to the Bid Food website by entering valid credentials.
+
+### 2. Check Availability on Home Page
+
+- **Description:** Verify the availability on the home page after a successful login.
+
+### 3. Search for Products (COCONUT MILK)
+
+- **Description:** Search for products containing "COCONUT MILK" and validate the search results.
+
+## Test Results
+
+The test results are recorded in a video, shown below:
+
+![Animated GIF](./Run_Automation_Tests.gif)
+
+
+
+
